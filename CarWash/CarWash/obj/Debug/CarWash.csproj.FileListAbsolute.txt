@@ -1,0 +1,6 @@
+C:\Users\79994\Desktop\прога\CarWash\CarWash\bin\Debug\CarWash.dll
+C:\Users\79994\Desktop\прога\CarWash\CarWash\bin\Debug\CarWash.pdb
+C:\Users\79994\Desktop\прога\CarWash\CarWash\obj\Debug\CarWash.csproj.AssemblyReference.cache
+C:\Users\79994\Desktop\прога\CarWash\CarWash\obj\Debug\CarWash.csproj.CoreCompileInputs.cache
+C:\Users\79994\Desktop\прога\CarWash\CarWash\obj\Debug\CarWash.dll
+C:\Users\79994\Desktop\прога\CarWash\CarWash\obj\Debug\CarWash.pdb
